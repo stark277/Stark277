@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">Level 2 Tech at MSP | Security Enthusiast | Home Lab Aficionado</h3>
+<h3 align="center">Level 2 Tech at a MSP in Daytona Florida | Security Enthusiast | Home Lab Aficionado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark277&label=Profile%20views&color=0e75b6&style=flat" alt="stark277" /> </p>
 
